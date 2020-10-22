@@ -1,7 +1,26 @@
-h1, p {
+h1 {
   font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 30px;
 }
 
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+body, html {
+  height: 100%;
+}
+
+body {
+  background-image: url("/images/bg-desktop.png");
+  background-color: hsl(229, 57%, 11%);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
 
 /* --------------------- Attribution -------------------- */
 .attribution {
