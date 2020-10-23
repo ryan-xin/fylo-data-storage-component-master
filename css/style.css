@@ -178,8 +178,6 @@ body {
     height: auto;
     flex-direction: column;
     background-image: url("/images/bg-mobile.png");
-    background-position: bottom;
-    background-repeat: no-repeat;
     background-size: 100% 100%;
   }
   
